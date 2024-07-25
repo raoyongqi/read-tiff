@@ -1,0 +1,10 @@
+rasterio
+matplotlib
+numpy
+tqdm
+rasterio 
+holoviews 
+datashader 
+xarray 
+dask
+bokeh
